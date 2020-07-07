@@ -1,0 +1,6 @@
+1.
+virtualenv name
+2.
+source name/bin/active
+3.
+deactivate
